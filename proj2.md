@@ -1,4 +1,4 @@
-Statisitical Programming - Project 2
+Statisitical Programming - Simulation-Bayesian inference
 ================
 Angelos Papanastasiou
 

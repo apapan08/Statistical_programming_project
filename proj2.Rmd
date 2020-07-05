@@ -1,5 +1,5 @@
 ---
-title: "Statisitical Programming - Project 2"
+title: "Statisitical Programming - Simulation-Bayesian inference"
 output: 
   github_document:
    pandoc_args: --webtex
